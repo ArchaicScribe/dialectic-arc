@@ -1,0 +1,6 @@
+@DialecticArc.Api_HostAddress = http://localhost:5189
+
+GET {{DialecticArc.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
